@@ -1,1 +1,4 @@
-print("Hello Atom!)
+
+name = input("Escribe tu nombre")
+print("Hola {}!()".format(name))
+git
